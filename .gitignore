@@ -221,3 +221,5 @@ __marimo__/
 
 # SQLite database (rebuild with: python src/create_database.py)
 *.db
+# Cleaned data (rebuild by running notebooks/02_data_cleaning.ipynb)
+data/hotel_bookings_clean.csv
