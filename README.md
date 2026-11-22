@@ -97,3 +97,5 @@ pip install -r requirements.txt
 GitHub: [@Virajsoni137](https://github.com/Virajsoni137)
 
 *Data: Antonio, N., de Almeida, A., & Nunes, L. (2019). Hotel booking demand datasets. Data in Brief, 22, 41–49.*
+
+📄 **[Read the full project report (PDF)](report/project_report.pdf)**
